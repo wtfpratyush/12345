@@ -19,7 +19,7 @@ const iconMap = {
 const HomePage = () => {
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
+ 
       <section className="relative pt-32 pb-20 px-4 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-white to-blue-50 z-0"></div>
         <div className="absolute inset-0 opacity-10 z-0"
@@ -65,7 +65,7 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Services Section */}
+   
       <section className="py-20 px-4 bg-white">
         <div className="container mx-auto">
           <div className="text-center mb-16">
@@ -151,7 +151,6 @@ const HomePage = () => {
         </div>
       </section>
 
-      {/* Why Choose Us */}
       <section className="py-20 px-4 bg-white">
         <div className="container mx-auto">
           <div className="text-center mb-16">

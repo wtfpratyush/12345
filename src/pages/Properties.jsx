@@ -35,7 +35,7 @@ const PropertiesPage = () => {
 
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
+   
       <section className="relative pt-32 pb-20 px-4 bg-gradient-to-br from-blue-600 to-blue-800 text-white">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 animate-in fade-in slide-in-from-top duration-700">
@@ -70,7 +70,7 @@ const PropertiesPage = () => {
         </div>
       </section>
 
-      {/* Properties Grid */}
+ 
       <section className="py-20 px-4 bg-gradient-to-br from-gray-50 to-blue-50">
         <div className="container mx-auto">
           <div className="mb-8">

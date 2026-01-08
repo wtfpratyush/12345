@@ -44,7 +44,7 @@ const AboutPage = () => {
         </div>
       </section>
 
-      {/* Mission & Vision */}
+   
       <section className="py-20 px-4 bg-gradient-to-br from-gray-50 to-blue-50">
         <div className="container mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -74,7 +74,7 @@ const AboutPage = () => {
         </div>
       </section>
 
-      {/* Values */}
+   
       <section className="py-20 px-4 bg-white">
         <div className="container mx-auto">
           <div className="text-center mb-16">
